@@ -1,0 +1,146 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Cachorro-quente de frango",
+      "preco": "R$ 8,00"
+    },
+    {
+      "id": 2,
+      "nome": "Cynthia Ribeiro",
+      "email": "cynthiarib@gmail.com",
+      "nascimento": "1992-06-10"
+    },
+    {
+      "id": 3,
+      "nome": "Luiz",
+      "email": "luiz@gmail.com",
+      "nascimento": "1963-05-29"
+    },
+    {
+      "nome": "Ozineide",
+      "email": "ozineide@gmail.com",
+      "nascimento": "1963-06-14",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9,
+      "nome": "Laís",
+      "email": "lais@gmail.com",
+      "nascimento": "1996-02-02"
+    },
+    {
+      "id": 10,
+      "nome": "Laís Ribeiro",
+      "email": "laisrib@gmail.com",
+      "nascimento": "1996-02-02"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Cachorro-quente",
+      "preco": "R$ 5,00"
+    },
+    {
+      "id": 2,
+      "nome": "Pizza",
+      "preco": "R$ 30,00"
+    },
+    {
+      "id": 3,
+      "nome": "Batata frita",
+      "preco": "R$ 5,00"
+    },
+    {
+      "nome": "Café",
+      "preco": "R$ 3,00",
+      "id": 4
+    },
+    {
+      "id": 10,
+      "nome": "Laís Ribeiro",
+      "email": "laisrib@gmail.com",
+      "nascimento": "1996-02-02"
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12,
+      "nome": "Pizza de queijo",
+      "preco": "R$ 20,00"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "nome": "Café Santa Clara",
+      "email": "cafesantaclara@gmail.com",
+      "cnpj": "111.222.333333-01"
+    },
+    {
+      "id": 2,
+      "nome": "Prime Fries",
+      "email": "primefries@gmail.com",
+      "cnpj": "111.222.333333-02"
+    },
+    {
+      "id": 3,
+      "nome": "JBS S.A.",
+      "email": "jbs.sa@gmail.com",
+      "cnpj": "111.222.333333-03"
+    },
+    {
+      "nome": "Guaraves",
+      "email": "guaraves@gmail.com",
+      "cnpj": "111.222.333333-04",
+      "id": 4
+    },
+    {
+      "id": 13,
+      "nome": "Sadia.",
+      "email": "sadia@gmail.com",
+      "cnpj": "111.222.333333-05"
+    }
+  ],
+  "entregadores": [
+    {
+      "id": 1,
+      "nome": "Lucas",
+      "email": "lucas@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "João",
+      "email": "joão@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "Pedro",
+      "email": "pedro@gmail.com"
+    },
+    {
+      "nome": "Cleber",
+      "email": "cleber@gmail.com",
+      "id": 4
+    },
+    {
+      "nome": "Matheus",
+      "email": "matheus@gmail.com",
+      "id": 14
+    }
+  ]
+}
